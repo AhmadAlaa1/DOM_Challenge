@@ -12,7 +12,7 @@ This project is a challenge to build a complete website using only **JavaScript*
 3. [File Structure](#file-structure)
 4. [Getting Started](#getting-started)
 5. [How It Works](#how-it-works)
-6. [Future Enhancements](#future-enhancements)
+
 
 
 ## Project Objectives
@@ -66,9 +66,4 @@ The website is powered entirely by JavaScript, with all elements and interactivi
 - **DOM Manipulation:** JavaScript is used to create, modify, and remove HTML elements dynamically.
 - **Event Handling:** Various events like clicks and user inputs are managed and responded to using JavaScript.
 - **Responsive Design:** JavaScript helps in adapting the content to different screen sizes and orientations.
-
-## Future Enhancements
-
-- **Styling with Pure JavaScript:** Adding inline styles through JavaScript to improve the visual appearance of the website.
-- **Additional Interactivity:** Introducing more interactive features, such as form validation, animations, and real-time data updates.
-
+  
