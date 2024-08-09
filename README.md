@@ -13,7 +13,7 @@ This project is a challenge to build a complete website using only **JavaScript*
 4. [Getting Started](#getting-started)
 5. [How It Works](#how-it-works)
 6. [Future Enhancements](#future-enhancements)
-7. [Contributing](#contributing)
+
 
 ## Project Objectives
 
@@ -72,17 +72,3 @@ The website is powered entirely by JavaScript, with all elements and interactivi
 - **Styling with Pure JavaScript:** Adding inline styles through JavaScript to improve the visual appearance of the website.
 - **Additional Interactivity:** Introducing more interactive features, such as form validation, animations, and real-time data updates.
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-name`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add some feature'`).
-5. Push to the branch (`git push origin feature-name`).
-6. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
