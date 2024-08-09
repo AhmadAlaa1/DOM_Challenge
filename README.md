@@ -49,11 +49,11 @@ project-root/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/javascript-html-challenge.git
+   git clone https://github.com/AhmadAlaa1/DOM_Challenge
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd javascript-html-challenge
+   cd DOM_Challenge
    ```
 3. **Open the `index.html` file in your web browser:**
    You can do this by double-clicking the file or using a browser's `Open File` option.
