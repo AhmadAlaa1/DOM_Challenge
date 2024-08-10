@@ -127,6 +127,7 @@ const cssRule =
     .back{
         position:relative;
         transform: rotateY(180deg);
+        background-image:linear-gradient(to left,#921a40,#921b10)
     }
     .card-1{
         grid-row:span 2;
